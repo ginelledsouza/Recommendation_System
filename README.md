@@ -9,10 +9,10 @@ For this, we will use the concept called "Recommender systems".
 Recommender systems are an important class of machine learning that offer suggestions to users based on a degree of relevance. 
 It can be categorized as collaborative filtering or a content-based system. We will create both these demonstration models.
 
-- Content-Based Recommendation System:
-A content-Based recommender is used to suggested relevant data based on only and only the features of the movie searched, 
+- <b>Content-Based Recommendation System</b>:<br>
+A content-Based recommender is used to suggest relevant data based on only and only the features of the movie searched. 
 
-- Collaborative Based Recommendation System:
+- <b>Collaborative Based Recommendation System</b>:<br>
 Collaborative filtering is a method of making suggestions about the interests of a user by collecting preferences or information from 
 many users.
 
