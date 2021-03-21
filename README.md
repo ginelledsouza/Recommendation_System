@@ -17,3 +17,6 @@ Collaborative filtering is a method of making suggestions about the interests of
 many users.
 
 
+Note: The Dataset for this project has been attached to this repository as well as the current version can be found on [Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
+
+
